@@ -24,7 +24,7 @@ This project is a Go application that parses HTML pages with pagination and inse
 
 ```sh
 git clone https://github.com/mefistofeles00/go_parse_to_data
-cd html-parser-mysql-inserter# go_parse_to_data
+cd go_parse_to_data
 
 go get github.com/PuerkitoBio/goquery
 go get github.com/go-sql-driver/mysql
